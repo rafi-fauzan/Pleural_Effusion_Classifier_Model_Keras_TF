@@ -3,11 +3,10 @@
 This repo contains the source code of my undergraduate thesis project. The goal of this project is to create a model to classify chest x-ray images and detect an abnormal lung condition called Pleural Effusion.
 
 The model used is pre-trained VGG19 that has been trained with numbers of chest x-ray images of pleural effusion class from the famous ChestXray14 dataset. 
-For localization purposes, the grad-cam technique is used.
+And for localization purposes, the grad-cam technique is used.
 
 <sub>Samples of heatmap produced by the model<sub>
-
 <p align="center"><img src="graphs/Picture1.jpg" width="600" /></p></p>
 <p align="center"><img src="graphs/Picture2.jpg" width="600" /></p>
 
-The full paper can be seen [here](https://https://jiki.cs.ui.ac.id/index.php/jiki/article/view/898/437)
+The full paper can be seen [here](https://jiki.cs.ui.ac.id/index.php/jiki/article/view/898/437)

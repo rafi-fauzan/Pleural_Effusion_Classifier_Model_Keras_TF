@@ -1,9 +1,10 @@
 # Pleural Effusion Classification Based on Chest X-Ray Images using Convolutional Neural Network
 
-This repo contains the source code of my undergraduate thesis project. The goal of this project is to create a model to classify chest x-ray images and detect an abnormal lung condition called Pleural Effusion.
+This repo contains the source code of my undergraduate thesis project. 
+The goal of this project is to create a model to classify chest x-ray images and detect an abnormal lung condition called Pleural Effusion.
 
-The model used is pre-trained VGG19 that has been trained with numbers of chest x-ray images of pleural effusion class from the famous ChestXray14 dataset. 
-And for localization purposes, the grad-cam technique is used.
+The model used is pre-trained VGG19 that has been trained with numbers of chest x-ray images of pleural effusion class from the famous ChestXray14 dataset,
+and for localization purposes, the grad-cam technique is used.
 
 <sub>Samples of heatmap produced by the model<sub>
 <p align="center"><img src="graphs/Picture1.jpg" width="600" /></p></p>
